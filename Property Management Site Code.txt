@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+	<title>PropertyOrg</title>
+<head>
+<style>
+	body {color:red;}
+	
+</style>
+</head>
+<body>
+
+<div class="container">
+<div class="header">
+	 <h1>PropertyOrg</h1>
+</div>
+
+<div class="wrapper clearfix>
+<div class="section">
+	<a href="https://sotd.us/meganweller/prospects.html">Prospects</a>
+	<a href="https://sotd.us/meganweller/tenants.html">Tenants</a>
+	<a href="https://sotd.us/meganweller/maintenance.html>Maintenance</a>
+	<a href="https://sotd.us/meganweller/vendors.html>Vendors</a>
+	<a href="https://sotd.us/meganweller/employees.html>Employees</a>
+	<a href="https://sotd.us/meganweller/productivity.html>Productivity</a>
+	<a href="https://sotd.us/meganweller/properties.html>Properties</a>
+</div>
+
+<div class="section">
+	<h2>Alerts</h2>
+<ul>
+<li><a href-"#">New Messages</a></li>
+</ul>
+<img src="https://www.kindpng.com/picc/m/394-3943983_alert-alert-button-hd-png-download.png" alt="Alert Button" width="128" heigh="128">
+</div>
+
+<div class="section">
+	<h2>Work Orders</h2>
+<ul>
+<li><a href-"#">New Work Orders</a></li>
+<li><a href-"#">Open Work Orders</a></li>
+<li><a href-"#">Create Work Order</a></li>
+</ul>
+</div>
+
+<div class="section">
+	<h2>Vendors</h2>
+<ul>
+<li><a href-"#">New Invoices</a></li>
+<li><a href-"#">Pay Bills</a></li>
+<li><a href-"#">Request Service</a></li>
+<li><a href-"#">Balance</a></li>
+</ul>
+</div>
+
+<div>
+<div class="section">
+	<h2>Inventory</h2>
+<ul>
+<li><a href-"#">Low Stock Inventory</a></li>
+<li><a href-"#">Add Inventory</a></li>
+</ul>
+</div>
+
+</body>
+</html>
+
